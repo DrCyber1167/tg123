@@ -177,7 +177,7 @@ If two or more peers have same name, <sharp>number is appended to the name. (for
 * **set_ttl** \<secret_chat\> \<ttl\> - sets ttl to secret chat. Though client does ignore it, client on other end can make use of it
 * **accept_secret_chat** \<secret_chat\> - manually accept secret chat (only useful when starting with -E key)
 
-#### Stats and various info
+#### Stats and various info 
 
 * **user_info** \<user\> - prints info about user
 * **history** \<peer\> [limit] - prints history (and marks it as read). Default limit = 40
